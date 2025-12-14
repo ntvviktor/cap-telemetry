@@ -32,7 +32,7 @@
       "db": {
         "kind": "sqlite",
         "credentials": {
-          "database": ":memory:"
+          "database": "sqlite3"
         }
       },
       "telemetry": {
